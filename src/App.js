@@ -1,7 +1,14 @@
-import React from 'react';
+import React from "react";
+import Card from "./components/card";
 
 function App() {
-    return <h1>Hello React</h1>;
+  return (
+    <div className="wrapper">
+      <Card username="ben" />
+      <Card username="ishandeveloper" />
+      <Card username="graciegregory" />
+    </div>
+  );
 }
 
 export default App;
