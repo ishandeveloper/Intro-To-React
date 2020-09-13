@@ -2,7 +2,7 @@
 
 <hr>
 
-This repository contains the starter files and final project files for the Intro To React article published by me on [Dev.to]() and [Personal Blog](https://blog.ishandeveloper.com/react-intro)
+This repository contains the starter files and final project files for the Intro To React article published by me on [Dev.to](http://links.ishandeveloper.com/react) and [Personal Blog](https://blog.ishandeveloper.com/react-intro)
 
 Built in <b>React.js</b> with ❤️
 
