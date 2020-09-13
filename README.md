@@ -8,20 +8,20 @@ Built in <b>React.js</b> with ❤️
 
 #### View Live Demo
 
-  <pre><center><a href="https://keep.ishandeveloper.com/"><b>keep.ishandeveloper.com</b></a></center></pre>
+  <pre><center><a href="http://devcards.ishandeveloper.com/"><b>devcards.ishandeveloper.com</b></a></center></pre>
 
 ## Setup
 
 ##### Clone the repository
 
 ```bash
-git clone https://github.com/ishandeveloper/Notes-Keeper.git
+git clone https://github.com/ishandeveloper/Intro-To-React.git
 ```
 
 ##### Move to the desired folder
 
 ```bash
-cd \Notes-Keeper
+cd \Intro-To-React
 ```
 
 ##### To install the dependencies, simply write
